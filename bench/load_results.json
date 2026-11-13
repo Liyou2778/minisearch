@@ -1,0 +1,46 @@
+{
+  "docs": 5000,
+  "gen_ms": 129.0,
+  "load": {
+    "inserted": 5000,
+    "load_wall_ms": 303.3,
+    "sum_build_ms": 245.2,
+    "stats": {
+      "docs": 5000,
+      "terms": 12119,
+      "postings": 1437715,
+      "index_bytes": 18270112,
+      "postings_bytes": 2895896,
+      "term_bytes": 739125,
+      "vector_bytes": 10240000,
+      "doc_bytes": 4395091,
+      "build_ms": 245.2314,
+      "avg_doc_len": 414.5456,
+      "vector_dim": 512,
+      "queries": 0,
+      "uptime_s": 1.3271325,
+      "k1": 1.2,
+      "b": 0.75,
+      "rrf_k": 60
+    }
+  },
+  "stats": {
+    "docs": 5000,
+    "terms": 12119,
+    "postings": 1437715,
+    "index_bytes": 18270112,
+    "postings_bytes": 2895896,
+    "term_bytes": 739125,
+    "vector_bytes": 10240000,
+    "doc_bytes": 4395091,
+    "build_ms": 245.2314,
+    "avg_doc_len": 414.5456,
+    "vector_dim": 512,
+    "queries": 0,
+    "uptime_s": 1.3492279,
+    "k1": 1.2,
+    "b": 0.75,
+    "rrf_k": 60
+  },
+  "bench": []
+}
